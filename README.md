@@ -6,7 +6,7 @@ A simple autonomous racing car simulation built using Python, Gymnasium, and Sta
 
 Project Overview:
 This project implements a custom racing environment where an AI-controlled car learns to drive on a user-designed race track.
-The environment was built from scratch using Gymnasium and trained using the **Proximal Policy Optimization (PPO)** algorithm from Stable-Baselines3.
+The environment was built from scratch using Gymnasium and trained using the Proximal Policy Optimization (PPO) algorithm from Stable-Baselines3.
 Although the agent is trained for a limited number of timesteps in this version, the project demonstrates the complete reinforcement learning pipeline, including environment creation, training, testing, and visualization.
 
 Features:
