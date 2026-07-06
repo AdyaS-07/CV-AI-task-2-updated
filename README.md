@@ -77,6 +77,7 @@ The project demonstrates:
 •	 Performance evaluation using episode reward graphs 
 •	 GIF visualization of the learned path
 
+<img width="702" height="703" alt="Screenshot 2026-07-06 091003" src="https://github.com/user-attachments/assets/5e0dd15b-7ce8-4315-a03e-98567c91ae48" />
 
 
 AUTHOR: Adyasha Sahani
